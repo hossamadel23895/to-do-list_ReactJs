@@ -3,7 +3,7 @@ import { Route, Routes, useNavigate } from "react-router-dom";
 
 import Home from "../components/Home/Home";
 import Login from "../components/Login/Login";
-import Tasks from "../components/Tasks/Tasks";
+import Tasks from "../Tasks/Tasks";
 import Header from "./Header";
 
 export default function Routing() {
